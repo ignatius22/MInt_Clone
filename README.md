@@ -1,6 +1,6 @@
 # HTML Forms
 
-> This project consists of building an HTML document that matches the appearance of youtube video player page.
+> This project consists of building an HTML document that matches the appearance of MInt login form.
 
 ![screenshot](./app_screenshot.png)
 
@@ -34,9 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Github: [@ignatius22](https://github.com/ignatius22)
 
-👤 **Kedir**
 
-- Github: [@keddo](https://github.com/keddo)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
